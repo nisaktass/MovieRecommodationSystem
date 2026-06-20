@@ -10,4 +10,4 @@ Bu proje, kullanıcıların film tercihlerine ve benzerliklerine göre kişisell
 * **Dil:** Java
 * **Arayüz:** Java Swing
 * **Veri Yapıları:** Heap (Priority Queue mantığı), Lists
-* **Algoritma:** Collaborative Filtering (Ortaklaşa Filtreleme)# MovieRecommodationSystem
+* **Algoritma:** Collaborative Filtering (Ortaklaşa Filtreleme)
